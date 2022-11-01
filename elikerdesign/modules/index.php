@@ -370,7 +370,7 @@
                     <div class="col-6">
                         <p>
                         <ul>
-                            <li><i class="checked"></i> Baeeeby seat</li> <br>
+                            <li><i class="checked"></i> Baby seat</li> <br>
                             <li>Car seat</li><br>
                             <li>Boster seat</li><br>
                             <li>Bilingual driver</li>
@@ -386,9 +386,35 @@
                         </ul>
                     </div>
                 </div>
+                <p class="text-center mt-5">
+                    Gratuities not included, Price in US dollars subject to change without prior notice, Read our <a style="color: blue;" href="#">FAQ</a> and 
+                    <a style="color: blue;" href="#"> Cancellation Policy</a> before booking.
+                </p>
             </div>
         </div>
     </div>
+</section>
+
+<section class="slider">
+
+</section>
+
+<section class="findEliker">
+    <div class="container text-center">
+        <h3 style="color: #414141;">Where to find Eliker Transfer representative?</h3>
+        <span style="color: red;">
+            When you arrive at the airport, please ignore the people inside of the airport who <br> are selling timeshare, Eliker Transfer does not have staff inside of the airport.
+        </span>
+        <div class="row">
+            <div class="col-12 col-lg-6">
+
+            </div>
+            <div class="col-12 col-lg-6">
+
+            </div>
+        </div>
+    </div>
+
 </section>
 
 <section class="about-us pb-6 pt-6" style="
