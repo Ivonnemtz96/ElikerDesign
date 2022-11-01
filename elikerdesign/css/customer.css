@@ -1,0 +1,78 @@
+:root {
+  --zona1: #00c4cc;
+  --zona2: #20ce88;
+  --zona3: #ff8c62;
+  --zona4: #ffb74d;
+  --zona1: #00c4cc;
+}
+.cabo {
+  background-color: #00c4cc !important;
+  border-radius: 10px;
+}
+.puerto {
+  background-color: var(--zona2);
+  border-radius: 10px;
+}
+.lucas {
+  background-color: var(--zona3);
+  border-radius: 10px;
+}
+.pacific {
+  background-color: var(--zona4);
+  border-radius: 10px;
+}
+
+.card-footer {
+  padding-left: 0px;
+  padding-right: 0px;
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+/* colores de botones y bordes de las cards */
+.textos-cards{
+    color: #414141;
+}
+.textos-cards img{
+    width: 1rem;
+}
+.boton {
+  width: 100%;
+}
+.zona1 {
+  color: #fff;
+  border-style: solid;
+  border-color: var(--zona1);
+}
+.zona2 {
+  color: #fff;
+  border-style: solid;
+  border-color: var(--zona2);
+}
+.zona3 {
+  color: #fff;
+  border-style: solid;
+  border-color: var(--zona3);
+}
+.zona4 {
+  color: #fff;
+  border-style: solid;
+  border-color: var(--zona4);
+}
+
+.btn-zona1 {
+  background-color: var(--zona1);
+  color: #fff;
+}
+.btn-zona2 {
+  background-color: var(--zona2);
+  color: #fff;
+}
+.btn-zona3 {
+  background-color: var(--zona3);
+  color: #fff;
+}
+.btn-zona4 {
+  background-color: var(--zona4);
+  color: #fff;
+}
+/* termina olores de botones y bordes de las cards */
