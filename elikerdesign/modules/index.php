@@ -3,8 +3,7 @@
 <section class="banner pb-0 overflow-hidden">
     <div class="container">
         <div class="banner-in">
-            <div class="row align-items-center"
-                style="background-image: url(images/1.webp);background-size: contain; background-position: inherit; background-repeat: no-repeat">
+            <div class="row align-items-center" style="background-image: url(images/1.webp);background-size: contain; background-position: inherit; background-repeat: no-repeat">
                 <div class="col-12 col-md-6 mb-4 col order-2 order-md-1">
                     <div class="banner-content text-lg-start text-center">
                         <h4 class="theme mb-0">Eliker Transfer</h4>
@@ -29,8 +28,7 @@
                                 </p>
                             </div>
                             <div class="col-6 col-md-6">
-                                <a target="_blank"
-                                    href="https://www.tripadvisor.com/Attraction_Review-g152515-d7245602-Reviews-Eliker_Transfer_Private_Transportation-Cabo_San_Lucas_Los_Cabos_Baja_California.html">
+                                <a target="_blank" href="https://www.tripadvisor.com/Attraction_Review-g152515-d7245602-Reviews-Eliker_Transfer_Private_Transportation-Cabo_San_Lucas_Los_Cabos_Baja_California.html">
                                     <img src="images/2.webp" alt="">
                                 </a>
                             </div>
@@ -41,78 +39,16 @@
                     <img src="images/3.webp" alt="" />
                 </div>
             </div>
-            <!-- <div class="category-main-inner border-t pt-1">
-                <div class="row side-slider">
-                    <div class="col-lg-3 col-md-6 my-4">
-                        <div class="category-item box-shadow p-3 py-4 text-center bg-white rounded overflow-hidden">
-                            <div class="trending-topic-content">
-                                <img src="images/icons/004-camping-tent.png" class="mb-1 d-inline-block" alt="" />
-                                <h4 class="mb-0"><a href="tour-grid.html">Camping</a></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 my-4">
-                        <div class="category-item box-shadow p-3 py-4 text-center bg-white rounded overflow-hidden">
-                            <div class="trending-topic-content text-center">
-                                <img src="images/icons/003-hiking.png" class="mb-1 d-inline-block" alt="" />
-                                <h4 class="mb-0"><a href="tour-grid.html">Hiking</a></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 my-4">
-                        <div class="category-item box-shadow p-3 py-4 text-center bg-white rounded overflow-hidden">
-                            <div class="trending-topic-content">
-                                <img src="images/icons/005-sunbed.png" class="mb-1 d-inline-block" alt="" />
-                                <h4 class="mb-0">
-                                    <a href="tour-grid.html">Beach Tours</a>
-                                </h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 my-4">
-                        <div class="category-item box-shadow p-3 py-4 text-center bg-white rounded overflow-hidden">
-                            <div class="trending-topic-content">
-                                <img src="images/icons/006-surf.png" class="mb-1 d-inline-block" alt="" />
-                                <h4 class="mb-0"><a href="tour-grid.html">Surfing</a></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 my-4">
-                        <div class="category-item box-shadow p-3 py-4 text-center bg-white rounded overflow-hidden">
-                            <div class="trending-topic-content">
-                                <img src="images/icons/002-safari.png" class="mb-1 d-inline-block" alt="" />
-                                <h4 class="mb-0"><a href="tour-grid.html">Safari</a></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 my-4">
-                        <div class="category-item box-shadow p-3 py-4 text-center bg-white rounded overflow-hidden">
-                            <div class="trending-topic-content">
-                                <img src="images/icons/008-cycling.png" class="mb-1 d-inline-block" alt="" />
-                                <h4 class="mb-0"><a href="tour-grid.html">Cycling</a></h4>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-3 col-md-6 my-4">
-                        <div class="category-item box-shadow p-3 py-4 text-center bg-white rounded overflow-hidden">
-                            <img src="images/icons/007-hiking-1.png" class="mb-1 d-inline-block" alt="" />
-                            <div class="trending-topic-content">
-                                <h4 class="mb-0"><a href="tour-grid.html">Trekings</a></h4>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div> -->
         </div>
-    </div>
-    <div class="covid text-center" style="background-color: #f6f7f8;">
-        <p>
-            Check how we protect ourselves from COVID-19 <a style="color: blue;" href="#">more info ></a>
-        </p>
     </div>
 </section>
 
 <section class="cards-zonas" style="padding: 3rem;background-color: #f6f7f8;">
+    <div class="covid text-center mb-5" style="background-color: #f6f7f8;">
+        <p>
+            Check how we protect ourselves from COVID-19 <a style="color: blue;" href="#">more info ></a>
+        </p>
+    </div>
     <div class="container">
         <div class="row justify-content-center align-items-center">
             <h3 class="text-center mb-4" style="color: #414141;">Book your next adventure!</h3>
@@ -354,18 +290,16 @@
         </div>
     </div>
     <div class="container text-end">
-        <a href="#"
-            onclick="javascript:window.open('https://www.paypal.com/mx/cgi-bin/webscr?cmd=xpt/Marketing/general/WIPaypal-outside','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=600, height=500');">
-            <img src="https://www.paypal.com/es_XC/Marketing/i/banner/paypal_visa_mastercard_amex_debit_new.png"
-                border="0" alt="Comprador local"></a>
+        <a href="#" onclick="javascript:window.open('https://www.paypal.com/mx/cgi-bin/webscr?cmd=xpt/Marketing/general/WIPaypal-outside','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=600, height=500');">
+            <img src="https://www.paypal.com/es_XC/Marketing/i/banner/paypal_visa_mastercard_amex_debit_new.png" border="0" alt="Comprador local"></a>
     </div>
 </section>
 
-<section class="servicios">
+<section class="servicios" style="background-color: #f6f7f8;">
     <div class="container">
-        <div class="row h-100 justify-content-center">
+        <div class="row h-100 justify-content-between">
             <div class="col-12 col-md-6">
-                <h3>Our Services include:</h3>
+                <h3 class="text-center mb-4" style="color: #414141;">Our Services include:</h3>
                 <div class="row g-2">
                     <div class="col-6">
                         <p>
@@ -387,30 +321,26 @@
                     </div>
                 </div>
                 <p class="text-center mt-5">
-                    Gratuities not included, Price in US dollars subject to change without prior notice, Read our <a
-                        style="color: blue;" href="#">FAQ</a> and
+                    Gratuities not included, Price in US dollars subject to change without prior notice, Read our <a style="color: blue;" href="#">FAQ</a> and
                     <a style="color: blue;" href="#"> Cancellation Policy</a> before booking.
                 </p>
             </div>
             <div class="col-12 col-md-6">
                 <div id="TA_selfserveprop894" class="TA_selfserveprop">
                     <ul id="O8k9JQ6yWp" class="TA_links JEuyKpxGP">
-                        <li id="QMmRJQ0G" class="q5i8yksl5bCz"><a target="_blank"
-                                href="https://www.tripadvisor.com/Attraction_Review-g152515-d7245602-Reviews-Eliker_Transfer_Private_Transportation-Cabo_San_Lucas_Los_Cabos_Baja_California.html"><img
-                                    src="https://www.tripadvisor.com/img/cdsi/img2/branding/v2/Tripadvisor_lockup_horizontal_secondary_registered-11900-2.svg"
-                                    alt="TripAdvisor" /></a></li>
+                        <li id="QMmRJQ0G" class="q5i8yksl5bCz"><a target="_blank" href="https://www.tripadvisor.com/Attraction_Review-g152515-d7245602-Reviews-Eliker_Transfer_Private_Transportation-Cabo_San_Lucas_Los_Cabos_Baja_California.html"><img src="https://www.tripadvisor.com/img/cdsi/img2/branding/v2/Tripadvisor_lockup_horizontal_secondary_registered-11900-2.svg" alt="TripAdvisor" /></a></li>
                     </ul>
                 </div>
-                <script async
-                    src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=894&amp;locationId=7245602&amp;lang=en_US&amp;rating=true&amp;nreviews=3&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=false&amp;border=true&amp;display_version=2"
-                    data-loadtrk onload="this.loadtrk=true"></script>
+                <script async src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=894&amp;locationId=7245602&amp;lang=en_US&amp;rating=true&amp;nreviews=3&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=false&amp;border=true&amp;display_version=2" data-loadtrk onload="this.loadtrk=true"></script>
             </div>
         </div>
     </div>
 </section>
 
 <!-- slider escritorio -->
-<section class="slider">
+<section class="slider" style="background-color: #f6f7f8;">
+    <h3 class=" text-center" style="color: #414141;">Our fleet</h3>
+    <h6 class=" text-center" style="color: #414141;">Vehicles are subject to availability</h6>
     <div class="slideshow-container">
         <div class="mySlides fade">
             <img class="d-none d-md-block" src="images/slider/03.jpg" style="width: 100%; height: auto;">
@@ -436,16 +366,14 @@
             <img class="d-none d-md-block" src="images/slider/04.jpg" style="width: 100%; height: auto;">
             <img class="d-md-none d-block" src="images/slider/07.jpg" style="width: 100%; height: auto;">
             <div class="container text-center d-none d-md-block" style="margin-bottom:2rem;">
-                <div class="text text-center"
-                    style="background-color: #fff; max-width: 19rem;box-shadow:  -4px 3px 1px 4px #ffb74d; margin-bottom:4rem; border-radius:5px;">
+                <div class="text text-center" style="background-color: #fff; max-width: 19rem;box-shadow:  -4px 3px 1px 4px #ffb74d; margin-bottom:4rem; border-radius:5px;">
                     <h6 style="color: #414141;">Expedition</h6>
                     <p style="color: #414141;">Up to 5 passengers</p>
                 </div>
             </div>
 
             <div class="container text-center d-md-none d-block" style="margin-bottom:2rem;">
-                <div class="text text-center"
-                    style="background-color: #fff;width: 11rem; box-shadow:-4px 3px 1px 4px #ffb74d; margin-bottom:2rem; border-radius:5px;">
+                <div class="text text-center" style="background-color: #fff;width: 11rem; box-shadow:-4px 3px 1px 4px #ffb74d; margin-bottom:2rem; border-radius:5px;">
                     <h6 style="color: #414141;">Expedition </h6>
                     <p style="color: #414141;">Up to 5 passengers</p>
                 </div>
@@ -456,16 +384,14 @@
             <img class="d-none d-md-block" src="images/slider/05.jpg" style="width: 100%; height: auto;">
             <img class="d-md-none d-block" src="images/slider/10.jpg" style="width: 100%; height: auto;">
             <div class="container text-center d-none d-md-block" style="margin-bottom:2rem;">
-                <div class="text text-center"
-                    style="background-color: #fff; max-width: 19rem;box-shadow:  -4px 3px 1px 4px #ffb74d; margin-bottom:4rem; border-radius:5px;">
+                <div class="text text-center" style="background-color: #fff; max-width: 19rem;box-shadow:  -4px 3px 1px 4px #ffb74d; margin-bottom:4rem; border-radius:5px;">
                     <h6 style="color: #414141;">Suburban</h6>
                     <p style="color: #414141;">Up to 5 passengers</p>
                 </div>
             </div>
 
             <div class="container text-center d-md-none d-block" style="margin-bottom:2rem;">
-                <div class="text text-center"
-                    style="background-color: #fff;width: 11rem; box-shadow:-4px 3px 1px 4px #ffb74d; margin-bottom:2rem; border-radius:5px;">
+                <div class="text text-center" style="background-color: #fff;width: 11rem; box-shadow:-4px 3px 1px 4px #ffb74d; margin-bottom:2rem; border-radius:5px;">
                     <h6 style="color: #414141;">Suburban </h6>
                     <p style="color: #414141;">Up to 5 passengers</p>
                 </div>
@@ -476,16 +402,14 @@
             <img class="d-none d-md-block" src="images/slider/01.jpg" style="width: 100%; height: auto;">
             <img class="d-md-none d-block" src="images/slider/09.jpg" style="width: 100%; height: auto;">
             <div class="container text-center d-none d-md-block" style="margin-bottom:2rem;">
-                <div class="text text-center"
-                    style="background-color: #fff; max-width: 19rem;box-shadow:  -4px 3px 1px 4px #ffb74d; margin-bottom:4rem; border-radius:5px;">
+                <div class="text text-center" style="background-color: #fff; max-width: 19rem;box-shadow:  -4px 3px 1px 4px #ffb74d; margin-bottom:4rem; border-radius:5px;">
                     <h6 style="color: #414141;">Mercedez Venz</h6>
                     <p style="color: #414141;">Up to 5 passengers</p>
                 </div>
             </div>
 
             <div class="container text-center d-md-none d-block" style="margin-bottom:2rem;">
-                <div class="text text-center"
-                    style="background-color: #fff;width: 11rem; box-shadow:-4px 3px 1px 4px #ffb74d; margin-bottom:2rem; border-radius:5px;">
+                <div class="text text-center" style="background-color: #fff;width: 11rem; box-shadow:-4px 3px 1px 4px #ffb74d; margin-bottom:2rem; border-radius:5px;">
                     <h6 style="color: #414141;">Toyota Hiace </h6>
                     <p style="color: #414141;">Up to 5 passengers</p>
                 </div>
@@ -496,16 +420,14 @@
             <img class="d-none d-md-block" src="images/slider/02.jpg" style="width: 100%; height: auto;">
             <img class="d-md-none d-block" src="images/slider/08.jpg" style="width: 100%; height: auto;">
             <div class="container text-center d-none d-md-block" style="margin-bottom:2rem;">
-                <div class="text text-center"
-                    style="background-color: #fff; max-width: 19rem;box-shadow:  -4px 3px 1px 4px #ffb74d; margin-bottom:4rem; border-radius:5px;">
+                <div class="text text-center" style="background-color: #fff; max-width: 19rem;box-shadow:  -4px 3px 1px 4px #ffb74d; margin-bottom:4rem; border-radius:5px;">
                     <h6 style="color: #414141;">Toyota Hiace</h6>
                     <p style="color: #414141;">Up to 10 passengers</p>
                 </div>
             </div>
 
             <div class="container text-center d-md-none d-block" style="margin-bottom:2rem;">
-                <div class="text text-center"
-                    style="background-color: #fff;width: 11rem; box-shadow:-4px 3px 1px 4px #ffb74d; margin-bottom:2rem; border-radius:5px;">
+                <div class="text text-center" style="background-color: #fff;width: 11rem; box-shadow:-4px 3px 1px 4px #ffb74d; margin-bottom:2rem; border-radius:5px;">
                     <h6 style="color: #414141;">Mercedez Venz </h6>
                     <p style="color: #414141;">Up to 5 passengers</p>
                 </div>
@@ -526,68 +448,38 @@
     </div>
 </section>
 
-<!-- slider celular -->
-<!-- <section class="slider d-block m-md-none">
-    <div class="slideshow-container">
-        <div class="mySlides2 fade">
-            <img src="images/slider/06.jpg" style="max-width: 100%; height: auto;">
-            <div class="container text-center" style="margin-bottom:2rem;">
-            <div class="text text-center" style="background-color: #fff; max-width: 19rem;box-shadow:  -4px 3px 1px 4px #ffb74d; margin-bottom:4rem; border-radius:10px;">
-                <h6 style="color: #414141;">Mercedez Venz</h6>
-                <p style="color: #414141;">Up to 5 passengers</p>
-            </div>
-            </div>
-        </div>
 
-        <div class="mySlides2 fade">
-            <img src="images/slider/07.jpg" style="width:100%">
-            <div class="text">Caption Two</div>
-        </div>
-
-        <div class="mySlides2 fade">
-            <img src="images/slider/08.jpg" style="width:100%">
-            <div class="text">Caption Three</div>
-        </div>
-
-        <div class="mySlides2 fade">
-            <img src="images/slider/09.jpg" style="width:100%">
-            <div class="text">Caption Three</div>
-        </div>
-
-        <div class="mySlides2 fade">
-            <img src="images/slider/10.jpg" style="width:100%">
-            <div class="text">Caption Three</div>
-        </div>
-
-        <a class="prev" onclick="plusSlides(-1)">❮</a>
-        <a class="next" onclick="plusSlides(1)">❯</a>
-
-    </div>
-    <br>
-    <div style="text-align:center">
-        <span class="dot" onclick="currentSlide(1)"></span>
-        <span class="dot" onclick="currentSlide(2)"></span>
-        <span class="dot" onclick="currentSlide(3)"></span>
-        <span class="dot" onclick="currentSlide(4)"></span>
-        <span class="dot" onclick="currentSlide(5)"></span>
-    </div>
-</section> -->
-
-<section class="findEliker">
-    <div class="container text-center">
+<section class="findEliker" style="background-color: #f6f7f8;">
+    <div class="container text-center mt-10">
         <h3 style="color: #414141;">Where to find Eliker Transfer representative?</h3>
         <span style="color: red;">
             When you arrive at the airport, please ignore the people inside of the airport who <br> are selling
             timeshare, Eliker Transfer does not have staff inside of the airport.
         </span>
-        <div class="row">
-            <div class="col-12 col-lg-6">
-
+        <div class="row h-100 justify-content-center">
+            <div class="col-12 col-lg-6 mt-5">
+                <h5 style="color: #414141;">Domestic flight Terminal 1</h5>
+                <img src="images/slider/11.jpg" style="max-width: 70%;" alt="image not found">
+                <p style="color: #414141; font-size: 15px; margin-top:2rem;">
+                    Please once you leave of customs, keep walking a few more steps and take your right on the group exit and the door will open and you can out of the building, the representative will be there on the stairs with the Company Logo (that it say: Eliker Transfer)
+                </p>
             </div>
-            <div class="col-12 col-lg-6">
-
+            <div class="col-12 col-lg-6 mt-5">
+                <h5 style="color: #414141;">International flight Terminal 2</h5>
+                <img src="images/slider/12.jpg" style="max-width: 70%;" alt="image not found">
+                <p style="color: #414141; font-size: 15px; margin-top:2rem;">
+                    Please, keep walking to the exit of the airport and you only need to look for the Company Logo (that it say: Eliker Transfer) in the (shading #4) the representative will be waiting for you.
+                </p>
+            </div>
+            <div class="col-md-8 mt-10">
+                <p style="color: #414141; font-size: 15px;">
+                    Due to the new regulations at the airport, the car will not be able to be inside the airport parking lot as before. So you should wait 10 to 12 minutes with the representative, who will call your driver once you are with him and then your car will come because the car will no longer be there. Sorry for the inconvenience, but this is the new airport rule with all private transportation.
+                </p>
             </div>
         </div>
     </div>
+</section>
 
+<section class="clima">
+    <a class="weatherwidget-io" href="https://forecast7.com/en/22d89n109d92/cabo-san-lucas/" data-label_1="LOS CABOS" data-label_2="WEATHER" data-font="Open Sans" data-theme="pure" data-accent="rgba(255, 255, 255, 0.02)" data-mooncolor="#ffffff" data-cloudfill="#ffffff">LOS CABOS WEATHER</a>
 </section>
