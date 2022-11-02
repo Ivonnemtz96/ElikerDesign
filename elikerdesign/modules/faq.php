@@ -12,8 +12,8 @@
                             greater, the transportation services we offer are luxurios and completely private, so that
                             you are calm and you can enjoy the vacations you have always desired.
                         </p>
-                        <div class="row justify-content-center align-items-center">
-                            <div class="col-6 col-md-6">
+                        <div class="row align-items-center text-left">
+                            <div class="col-10 col-md-12">
                                 <p>
                                     <b>Phone</b> Los Cabos <br>
                                     <a href="tel:011526241367171" style="color: #000;">011-52-624-136-7171</a>
