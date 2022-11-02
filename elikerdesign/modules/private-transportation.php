@@ -37,7 +37,7 @@
 <section class="slider" style="background-color: #f6f7f8;">
     <h3 class=" text-center" style="color: #414141;">Our fleet</h3>
     <h6 class=" text-center" style="color: #414141;">Vehicles are subject to availability</h6>
-    <img src="/images/slider/13.jpg" alt="">
+    <img style="width: 100%;" src="/images/slider/13.jpg" alt="">
     <br>
 </section>
 <!-- Clima -->
