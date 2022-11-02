@@ -1,6 +1,5 @@
-<footer class="pt-20 pb-4" style="background-image: url(images/background_pattern.png)">
-    <div class="section-shape top-0" style="background-image: url(images/shape8.png)"></div>
-
+<footer class="">
+    <!-- <div class="section-shape top-0" style="background-image: url(images/shape8.png)"></div>
     <div class="insta-main pb-10">
         <div class="container">
             <div class="insta-inner">
@@ -80,9 +79,7 @@
                             </li>
                             <li class="white">
                                 <strong>Email:</strong>
-                                <a href="https://htmldesigntemplates.com/cdn-cgi/l/email-protection"
-                                    class="__cf_email__"
-                                    data-cfemail="b4dddad2dbf4e0c6d5c2d1d8ddda9ad7dbd9">[email&#160;protected]</a>
+                                <a href="https://htmldesigntemplates.com/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="b4dddad2dbf4e0c6d5c2d1d8ddda9ad7dbd9">[email&#160;protected]</a>
                             </li>
                             <li class="white">
                                 <strong>Website:</strong> www.Travelin.com
@@ -131,8 +128,7 @@
                                 receives emails filled with news, promotions, and other good
                                 stuff.
                             </p>
-                            <form action="#" method="get" accept-charset="utf-8"
-                                class="border-0 d-flex align-items-center">
+                            <form action="#" method="get" accept-charset="utf-8" class="border-0 d-flex align-items-center">
                                 <input type="text" placeholder="Email Address" />
                                 <button class="nir-btn ms-2">Subscribe</button>
                             </form>
@@ -205,7 +201,28 @@
             </div>
         </div>
     </div>
-    <div id="particles-js"></div>
+    <div id="particles-js"></div> -->
+
+    <div class="row h-100 justify-content-center text-center" style="background-color: #f6f7f8;">
+        <div class="col-md-4 align-self-center">
+            <p>
+                <a style="color:#414141;" href="">
+                    Cancellation Policy</a> | <a style="color:#414141;" href="">Terms and Conditions</a>
+            </p>
+        </div>
+        <div class="col-md-4">
+            <P>
+                <ul>
+                    <span style="color:#414141;"><b>FOLLOW US</b></span>
+                    <li><img src="images/icons/trip.png" alt=""></li>
+                    <li><img src="images/icons/fb.png" alt=""></li>
+                    <li><img src="images/icons/insta.png" alt=""></li>
+                    <li><img src="images/icons/yelp.png" alt=""></li>
+                </ul>
+            </P>
+        </div>
+    </div>
+
 </footer>
 
 <div id="back-to-top">
@@ -227,15 +244,12 @@
                 <div class="post-tabs">
                     <ul class="nav nav-tabs nav-pills nav-fill" id="postsTab" role="tablist">
                         <li class="nav-item" role="presentation">
-                            <button aria-controls="login" aria-selected="false" class="nav-link active"
-                                data-bs-target="#login" data-bs-toggle="tab" id="login-tab" role="tab" type="button">
+                            <button aria-controls="login" aria-selected="false" class="nav-link active" data-bs-target="#login" data-bs-toggle="tab" id="login-tab" role="tab" type="button">
                                 Login
                             </button>
                         </li>
                         <li class="nav-item" role="presentation">
-                            <button aria-controls="register" aria-selected="true" class="nav-link"
-                                data-bs-target="#register" data-bs-toggle="tab" id="register-tab" role="tab"
-                                type="button">
+                            <button aria-controls="register" aria-selected="true" class="nav-link" data-bs-target="#register" data-bs-toggle="tab" id="register-tab" role="tab" type="button">
                                 Register
                             </button>
                         </li>
@@ -264,12 +278,10 @@
                                     <hr class="log-reg-hr position-relative my-4 overflow-visible" />
                                     <form method="post" action="#" name="contactform" id="contactform">
                                         <div class="form-group mb-2">
-                                            <input type="text" name="user_name" class="form-control" id="fname"
-                                                placeholder="User Name or Email Address" />
+                                            <input type="text" name="user_name" class="form-control" id="fname" placeholder="User Name or Email Address" />
                                         </div>
                                         <div class="form-group mb-2">
-                                            <input type="password" name="password_name" class="form-control" id="lpass"
-                                                placeholder="Password" />
+                                            <input type="password" name="password_name" class="form-control" id="lpass" placeholder="Password" />
                                         </div>
                                         <div class="form-group mb-2">
                                             <input type="checkbox" class="custom-control-input" id="exampleCheck" />
@@ -311,20 +323,16 @@
                                     <hr class="log-reg-hr position-relative my-4 overflow-visible" />
                                     <form method="post" action="#" name="contactform1" id="contactform1">
                                         <div class="form-group mb-2">
-                                            <input type="text" name="user_name" class="form-control" id="fname1"
-                                                placeholder="User Name" />
+                                            <input type="text" name="user_name" class="form-control" id="fname1" placeholder="User Name" />
                                         </div>
                                         <div class="form-group mb-2">
-                                            <input type="text" name="user_name" class="form-control" id="femail"
-                                                placeholder="Email Address" />
+                                            <input type="text" name="user_name" class="form-control" id="femail" placeholder="Email Address" />
                                         </div>
                                         <div class="form-group mb-2">
-                                            <input type="password" name="password_name" class="form-control" id="lpass1"
-                                                placeholder="Password" />
+                                            <input type="password" name="password_name" class="form-control" id="lpass1" placeholder="Password" />
                                         </div>
                                         <div class="form-group mb-2">
-                                            <input type="password" name="password_name" class="form-control"
-                                                id="lrepass" placeholder="Re-enter Password" />
+                                            <input type="password" name="password_name" class="form-control" id="lrepass" placeholder="Re-enter Password" />
                                         </div>
                                         <div class="form-group mb-2 d-flex">
                                             <input type="checkbox" class="custom-control-input" id="exampleCheck1" />
