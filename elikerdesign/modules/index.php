@@ -481,15 +481,15 @@
 </section>
 
 <section class="clima">
-    <div class="row h-100 justify-content-center">
-        <div class="col-1"></div>
-        <div class="col-2">
+    <div class="row h-100 justify-content-center align-items-center">
+        <div class="col-1 col-lg-1"></div>
+        <div class="col-4 col-lg-2">
             <img src="images/logo.jpg" style="max-width:80%" alt="">
         </div>
-        <div class="col-8">
+        <div class="col-8 col-lg-8 text-center">
             <a class="weatherwidget-io" href="https://forecast7.com/en/22d89n109d92/cabo-san-lucas/" data-label_1="LOS CABOS" data-label_2="WEATHER" data-font="Open Sans" data-theme="pure" data-accent="rgba(255, 255, 255, 0.02)" data-mooncolor="#ffffff" data-cloudfill="#ffffff">LOS CABOS WEATHER</a>
         </div>
-        <div class="col-1"></div>
+        <div class="col-1 col-lg-1"></div>
 
     </div>
 </section>
