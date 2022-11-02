@@ -17,8 +17,8 @@
                         </p>
                         <div class="row text-left align-items-center">
                             <div class="col-10 col-md-12">
-                                <p>
-                                    <b>Phone</b> Los Cabos <br>
+                                <p style="color: #414141;">
+                                    <b>Phone</b> Los Cabos <br> <i class="icon-phone"></i>
                                     <a href="tel:011526241367171" style="color: #000;">011-52-624-136-7171</a>
                                 </p>
                             </div>
