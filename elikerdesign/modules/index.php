@@ -3,7 +3,8 @@
 <section class="banner pb-0 overflow-hidden">
     <div class="container">
         <div class="banner-in">
-            <div class="row align-items-center" style="background-image: url(images/1.webp);background-size: contain; background-position: inherit; background-repeat: no-repeat">
+            <div class="row align-items-center"
+                style="background-image: url(images/1.webp);background-size: contain; background-position: inherit; background-repeat: no-repeat">
                 <div class="col-12 col-md-6 mb-4 col order-2 order-md-1">
                     <div class="banner-content text-lg-start text-center">
                         <h4 class="theme mb-0">Eliker Transfer</h4>
@@ -28,7 +29,8 @@
                                 </p>
                             </div>
                             <div class="col-6 col-md-6">
-                                <a target="_blank" href="https://www.tripadvisor.com/Attraction_Review-g152515-d7245602-Reviews-Eliker_Transfer_Private_Transportation-Cabo_San_Lucas_Los_Cabos_Baja_California.html">
+                                <a target="_blank"
+                                    href="https://www.tripadvisor.com/Attraction_Review-g152515-d7245602-Reviews-Eliker_Transfer_Private_Transportation-Cabo_San_Lucas_Los_Cabos_Baja_California.html">
                                     <img src="images/2.webp" alt="">
                                 </a>
                             </div>
@@ -352,8 +354,10 @@
         </div>
     </div>
     <div class="container text-end">
-        <a href="#" onclick="javascript:window.open('https://www.paypal.com/mx/cgi-bin/webscr?cmd=xpt/Marketing/general/WIPaypal-outside','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=600, height=500');">
-            <img src="https://www.paypal.com/es_XC/Marketing/i/banner/paypal_visa_mastercard_amex_debit_new.png" border="0" alt="Comprador local"></a>
+        <a href="#"
+            onclick="javascript:window.open('https://www.paypal.com/mx/cgi-bin/webscr?cmd=xpt/Marketing/general/WIPaypal-outside','WIPaypal','toolbar=no, location=no, directories=no, status=no, menubar=no, scrollbars=yes, resizable=yes, width=600, height=500');">
+            <img src="https://www.paypal.com/es_XC/Marketing/i/banner/paypal_visa_mastercard_amex_debit_new.png"
+                border="0" alt="Comprador local"></a>
     </div>
 </section>
 
@@ -383,47 +387,175 @@
                     </div>
                 </div>
                 <p class="text-center mt-5">
-                    Gratuities not included, Price in US dollars subject to change without prior notice, Read our <a style="color: blue;" href="#">FAQ</a> and
+                    Gratuities not included, Price in US dollars subject to change without prior notice, Read our <a
+                        style="color: blue;" href="#">FAQ</a> and
                     <a style="color: blue;" href="#"> Cancellation Policy</a> before booking.
                 </p>
             </div>
             <div class="col-12 col-md-6">
                 <div id="TA_selfserveprop894" class="TA_selfserveprop">
                     <ul id="O8k9JQ6yWp" class="TA_links JEuyKpxGP">
-                        <li id="QMmRJQ0G" class="q5i8yksl5bCz"><a target="_blank" href="https://www.tripadvisor.com/Attraction_Review-g152515-d7245602-Reviews-Eliker_Transfer_Private_Transportation-Cabo_San_Lucas_Los_Cabos_Baja_California.html"><img src="https://www.tripadvisor.com/img/cdsi/img2/branding/v2/Tripadvisor_lockup_horizontal_secondary_registered-11900-2.svg" alt="TripAdvisor" /></a></li>
+                        <li id="QMmRJQ0G" class="q5i8yksl5bCz"><a target="_blank"
+                                href="https://www.tripadvisor.com/Attraction_Review-g152515-d7245602-Reviews-Eliker_Transfer_Private_Transportation-Cabo_San_Lucas_Los_Cabos_Baja_California.html"><img
+                                    src="https://www.tripadvisor.com/img/cdsi/img2/branding/v2/Tripadvisor_lockup_horizontal_secondary_registered-11900-2.svg"
+                                    alt="TripAdvisor" /></a></li>
                     </ul>
                 </div>
-                <script async src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=894&amp;locationId=7245602&amp;lang=en_US&amp;rating=true&amp;nreviews=3&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=false&amp;border=true&amp;display_version=2" data-loadtrk onload="this.loadtrk=true"></script>
+                <script async
+                    src="https://www.jscache.com/wejs?wtype=selfserveprop&amp;uniq=894&amp;locationId=7245602&amp;lang=en_US&amp;rating=true&amp;nreviews=3&amp;writereviewlink=true&amp;popIdx=true&amp;iswide=false&amp;border=true&amp;display_version=2"
+                    data-loadtrk onload="this.loadtrk=true"></script>
             </div>
         </div>
     </div>
 </section>
 
+<!-- slider escritorio -->
 <section class="slider">
     <div class="slideshow-container">
-
         <div class="mySlides fade">
-            <img src="images/slider/01.jpg" style="width:100%">
-            <div class="text">Caption Text</div>
+            <img class="d-none d-md-block" src="images/slider/03.jpg" style="width: 100%; height: auto;">
+            <img class="d-md-none d-block" src="images/slider/06.jpg" style="width: 100%; height: auto;">
+            <!-- <div class="container text-center d-none d-md-block" style="margin-bottom:2rem;">
+                <div class="text text-center"
+                    style="background-color: #fff; max-width: 19rem;box-shadow:  -4px 3px 1px 4px #ffb74d; margin-bottom:4rem; border-radius:10px;">
+                    <h6 style="color: #414141;">Mercedez Venz</h6>
+                    <p style="color: #414141;">Up to 5 passengers</p>
+                </div>
+            </div> -->
+
+            <!-- <div class="container text-center d-md-none d-block" style="margin-bottom:2rem;">
+                <div class="text text-center"
+                    style="background-color: #fff;width: 11rem; box-shadow:-4px 3px 1px 4px #ffb74d; margin-bottom:2rem; border-radius:10px;">
+                    <h6 style="color: #414141;">Mercedez Venz </h6>
+                    <p style="color: #414141;">Up to 5 passengers</p>
+                </div>
+            </div> -->
         </div>
 
         <div class="mySlides fade">
-            <img src="images/slider/02.jpg" style="width:100%">
+            <img class="d-none d-md-block" src="images/slider/04.jpg" style="width: 100%; height: auto;">
+            <img class="d-md-none d-block" src="images/slider/07.jpg" style="width: 100%; height: auto;">
+            <div class="container text-center d-none d-md-block" style="margin-bottom:2rem;">
+                <div class="text text-center"
+                    style="background-color: #fff; max-width: 19rem;box-shadow:  -4px 3px 1px 4px #ffb74d; margin-bottom:4rem; border-radius:5px;">
+                    <h6 style="color: #414141;">Expedition</h6>
+                    <p style="color: #414141;">Up to 5 passengers</p>
+                </div>
+            </div>
+
+            <div class="container text-center d-md-none d-block" style="margin-bottom:2rem;">
+                <div class="text text-center"
+                    style="background-color: #fff;width: 11rem; box-shadow:-4px 3px 1px 4px #ffb74d; margin-bottom:2rem; border-radius:5px;">
+                    <h6 style="color: #414141;">Expedition </h6>
+                    <p style="color: #414141;">Up to 5 passengers</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="mySlides fade">
+            <img class="d-none d-md-block" src="images/slider/05.jpg" style="width: 100%; height: auto;">
+            <img class="d-md-none d-block" src="images/slider/10.jpg" style="width: 100%; height: auto;">
+            <div class="container text-center d-none d-md-block" style="margin-bottom:2rem;">
+                <div class="text text-center"
+                    style="background-color: #fff; max-width: 19rem;box-shadow:  -4px 3px 1px 4px #ffb74d; margin-bottom:4rem; border-radius:5px;">
+                    <h6 style="color: #414141;">Suburban</h6>
+                    <p style="color: #414141;">Up to 5 passengers</p>
+                </div>
+            </div>
+
+            <div class="container text-center d-md-none d-block" style="margin-bottom:2rem;">
+                <div class="text text-center"
+                    style="background-color: #fff;width: 11rem; box-shadow:-4px 3px 1px 4px #ffb74d; margin-bottom:2rem; border-radius:5px;">
+                    <h6 style="color: #414141;">Suburban </h6>
+                    <p style="color: #414141;">Up to 5 passengers</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="mySlides fade">
+            <img class="d-none d-md-block" src="images/slider/01.jpg" style="width: 100%; height: auto;">
+            <img class="d-md-none d-block" src="images/slider/09.jpg" style="width: 100%; height: auto;">
+            <div class="container text-center d-none d-md-block" style="margin-bottom:2rem;">
+                <div class="text text-center"
+                    style="background-color: #fff; max-width: 19rem;box-shadow:  -4px 3px 1px 4px #ffb74d; margin-bottom:4rem; border-radius:5px;">
+                    <h6 style="color: #414141;">Mercedez Venz</h6>
+                    <p style="color: #414141;">Up to 5 passengers</p>
+                </div>
+            </div>
+
+            <div class="container text-center d-md-none d-block" style="margin-bottom:2rem;">
+                <div class="text text-center"
+                    style="background-color: #fff;width: 11rem; box-shadow:-4px 3px 1px 4px #ffb74d; margin-bottom:2rem; border-radius:5px;">
+                    <h6 style="color: #414141;">Toyota Hiace </h6>
+                    <p style="color: #414141;">Up to 5 passengers</p>
+                </div>
+            </div>
+        </div>
+
+        <div class="mySlides fade">
+            <img class="d-none d-md-block" src="images/slider/02.jpg" style="width: 100%; height: auto;">
+            <img class="d-md-none d-block" src="images/slider/08.jpg" style="width: 100%; height: auto;">
+            <div class="container text-center d-none d-md-block" style="margin-bottom:2rem;">
+                <div class="text text-center"
+                    style="background-color: #fff; max-width: 19rem;box-shadow:  -4px 3px 1px 4px #ffb74d; margin-bottom:4rem; border-radius:5px;">
+                    <h6 style="color: #414141;">Toyota Hiace</h6>
+                    <p style="color: #414141;">Up to 10 passengers</p>
+                </div>
+            </div>
+
+            <div class="container text-center d-md-none d-block" style="margin-bottom:2rem;">
+                <div class="text text-center"
+                    style="background-color: #fff;width: 11rem; box-shadow:-4px 3px 1px 4px #ffb74d; margin-bottom:2rem; border-radius:5px;">
+                    <h6 style="color: #414141;">Mercedez Venz </h6>
+                    <p style="color: #414141;">Up to 5 passengers</p>
+                </div>
+            </div>
+        </div>
+
+        <a class="prev" onclick="plusSlides(-1)">❮</a>
+        <a class="next" onclick="plusSlides(1)">❯</a>
+
+    </div>
+    <br>
+    <div style="text-align:center">
+        <span class="dot" onclick="currentSlide(1)"></span>
+        <span class="dot" onclick="currentSlide(2)"></span>
+        <span class="dot" onclick="currentSlide(3)"></span>
+        <span class="dot" onclick="currentSlide(4)"></span>
+        <span class="dot" onclick="currentSlide(5)"></span>
+    </div>
+</section>
+
+<!-- slider celular -->
+<!-- <section class="slider d-block m-md-none">
+    <div class="slideshow-container">
+        <div class="mySlides2 fade">
+            <img src="images/slider/06.jpg" style="max-width: 100%; height: auto;">
+            <div class="container text-center" style="margin-bottom:2rem;">
+            <div class="text text-center" style="background-color: #fff; max-width: 19rem;box-shadow:  -4px 3px 1px 4px #ffb74d; margin-bottom:4rem; border-radius:10px;">
+                <h6 style="color: #414141;">Mercedez Venz</h6>
+                <p style="color: #414141;">Up to 5 passengers</p>
+            </div>
+            </div>
+        </div>
+
+        <div class="mySlides2 fade">
+            <img src="images/slider/07.jpg" style="width:100%">
             <div class="text">Caption Two</div>
         </div>
 
-        <div class="mySlides fade">
-            <img src="images/slider/03.jpg" style="width:100%">
+        <div class="mySlides2 fade">
+            <img src="images/slider/08.jpg" style="width:100%">
             <div class="text">Caption Three</div>
         </div>
 
-        <div class="mySlides fade">
-            <img src="images/slider/04.jpg" style="width:100%">
+        <div class="mySlides2 fade">
+            <img src="images/slider/09.jpg" style="width:100%">
             <div class="text">Caption Three</div>
         </div>
 
-        <div class="mySlides fade">
-            <img src="images/slider/05.jpg" style="width:100%">
+        <div class="mySlides2 fade">
+            <img src="images/slider/10.jpg" style="width:100%">
             <div class="text">Caption Three</div>
         </div>
 
@@ -432,7 +564,6 @@
 
     </div>
     <br>
-
     <div style="text-align:center">
         <span class="dot" onclick="currentSlide(1)"></span>
         <span class="dot" onclick="currentSlide(2)"></span>
@@ -440,8 +571,7 @@
         <span class="dot" onclick="currentSlide(4)"></span>
         <span class="dot" onclick="currentSlide(5)"></span>
     </div>
-
-</section>
+</section> -->
 
 <section class="findEliker">
     <div class="container text-center">
