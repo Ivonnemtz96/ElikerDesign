@@ -420,13 +420,13 @@
 
         <div class="mySlides fade">
             <div class="numbertext">2 / 3</div>
-            <img src="images/bg/bg4.jpg" style="width:100%">
+            <img src="images/slider/02.jpg" style="width:100%">
             <div class="text">Caption Two</div>
         </div>
 
         <div class="mySlides fade">
             <div class="numbertext">3 / 3</div>
-            <img src="images/bg/bg3.jpg" style="width:100%">
+            <img src="images/slider/03.jpg" style="width:100%">
             <div class="text">Caption Three</div>
         </div>
 
