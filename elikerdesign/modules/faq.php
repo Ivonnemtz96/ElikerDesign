@@ -6,13 +6,16 @@
                 <div class="col-md-2"></div>
                 <div class="col-12 col-lg-4 col-md-8 col-sm-12 mb-4 col order-2 order-md-2">
                     <div class="banner-content text-lg-start">
-                        <h3 class="theme mb-0" style="text-align:justify; color:#414141 !important;">Transportation in Cabo at an amazing price!</h3>
-                        <p class="mb-4">
-                            Customize your service according to the needs of the trip, in this way your savings will be
-                            greater, the transportation services we offer are luxurios and completely private, so that
-                            you are calm and you can enjoy the vacations you have always desired.
+                         <h3 class="theme mb-0" style="text-align:justify; color:#414141 !important;">
+                            We are here to help you!
+                        </h3>
+                        <p class="mb-4" style="padding: 10px;">
+                            These frequently asked questions will help you clarify doubts when booking the
+                            transportation service in Cabo.
+                            <br>
+                            <a href="" style="color: blue;">Contact us ></a>
                         </p>
-                        <div class="row align-items-center text-left">
+                        <div class="row text-left align-items-center">
                             <div class="col-10 col-md-12">
                                 <p>
                                     <b>Phone</b> Los Cabos <br>
