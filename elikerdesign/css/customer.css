@@ -182,3 +182,11 @@ img {
     font-size: 11px;
   }
 }
+
+
+/* medias querys */
+@media  (max-width: 771px)  {
+  .fondo{
+    background-image: none !important;
+  }
+}
