@@ -26,10 +26,10 @@
                     </div>
                 </div>
                 <div class="col-12 d-block d-md-none d-lg-none">
-                    <img src="images/05.jpg" alt="" />
+                    <img src="images/3.webp" alt="" />
                 </div>
                 <div class="container" style="position: absolute;z-index:-2;">
-                <img class="d-none d-md-block d-lg-block"  src="images/4.jpg" alt="" />
+                <img class="d-none d-md-block d-lg-block"  src="images/06.jpg" alt="" />
                 </div>
             </div>
         </div>
