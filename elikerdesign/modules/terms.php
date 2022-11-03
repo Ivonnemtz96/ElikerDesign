@@ -67,7 +67,7 @@
                 <p>
                     The user accepts that he is of legal age in the country where he lives, he can carry out legitimate
                     operations for personal or commercial use, in order to acquire the transport services offered by
-                    Eliker Transfer S de RL de CV, by doing this, he agrees with our <a target="_blank" href="cancellation-policy.php">Cancellation Policy</a>. <br><br>
+                    Eliker Transfer S de RL de CV, by doing this, he agrees with our <a target="_blank" href="cancellation-policy.php" style="color:blue;">Cancellation Policy</a>. <br><br>
 
                     EMAIL IS A MEANS OF COMMUNICATION BETWEEN THE USER AND ELIKER TRANSFER S DE RL DE CV, THEREFORE, ALL AGREEMENTS, NOTICES, INFORMATION THAT ARE SENT TO THE USER THROUGH THIS MEANS, COMPLY WITH THE LEGAL REQUIREMENTS AS IF THERE WERE DONE IN WRITING. <br><br>
 
