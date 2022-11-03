@@ -183,15 +183,14 @@ img {
   }
 }
 
-
 /* medias querys */
-@media  (max-width: 771px)  {
-  .fondo{
+@media (max-width: 771px) {
+  .fondo {
     background-image: none !important;
   }
 }
 
 /* listas */
-ul .faq{
+ul .faq {
   list-style-type: circle !important;
 }

@@ -36,18 +36,59 @@
 </section>
 
 <!-- Our Services -->
-<section class="services">
+<section class="services" style="background-color: #f6f7f8;">
     <div class="container">
-        <div class="row">
-            <div class="col-12 col-md-12 col-lg-4">
+        <div class="row h-100 justify-content-center text-center">
+            <div style="box-shadow: 1px 1px 5px #414141;border: 1px solid #414141; background-color: #fff;" class="mt-3 col-8 col-md-8 col-lg-3 p-5">
                 <img src="images/icons/car.png" alt="image not found">
+                <h5 style="text-align:center; color:#414141 !important;" class="mt-2">Private Transportation</h5> <br>
+                <p style="text-align: justify;">
+                    From San José del Cabo International Airport (SJD) to: <br> <br>
+                <ul style="text-align: justify;">
+                    <li>* San José del Cabo</li> <br>
+                    <li>* Tourist Corridor</li><br>
+                    <li>* Cabo San Lucas</li><br>
+                    <li>* Pacific Area</li><br>
+                </ul>
+                </p><br>
+                <p style="text-align: justify;">
+                    <b>One way or Round Trip</b>
+                </p> <br> <br> <br>
+                <a class="btn-zona1 btn-lg mt-1" type="button"><i class="icon-envelope"></i> Contact us</a>
             </div>
-            <div class="col-12 col-md-12 col-lg-4">
-                
+            <div class="col-5 col-md-1"></div>
+            <div style="box-shadow: 1px 1px 5px #414141;border: 1px solid #414141; background-color: #fff;" class="mt-3 col-8 col-md-8 col-lg-3 p-5">
+                <img src="images/icons/map.png" alt="image not found">
+                <h5 style="text-align:center; color:#414141 !important;" class="mt-2">City Tours</h5> <br>
+                <p style="text-align: justify;">
+                    Private transportation from the hotel to the following cities: <br> <br>
+                <ul style="text-align: justify;">
+                    <li>* Todos Santos</li> <br>
+                    <li>* La Paz</li><br>
+                    <li>* Cabo San Lucas</li><br> <br>
+                </ul>
+                </p><br>
+                <p style="text-align: justify;">
+                    <b>Round Trip</b>
+                </p> <br><br>
+                <a class="btn-zona1 btn-lg mt-1" type="button"><i class="icon-envelope"></i> Contact us</a>
             </div>
-            <div class="col-12 col-md-12 col-lg-4">
-                
+            <div class="col-5 col-md-1"></div>
+            <div style="box-shadow: 1px 1px 5px #414141;border: 1px solid #414141; background-color: #fff;" class="mt-3 col-8 col-md-8 col-lg-3 p-5">
+                <img src="images/icons/events.png" alt="image not found">
+                <h5 style="text-align:center; color:#414141 !important;" class="mt-2">Special events</h5> <br>
+                <p style="text-align: justify;">
+                Private transportation from the hotel to the following things: <br> <br>
+                <ul style="text-align: justify;">
+                    <li>* Dinners</li> <br>
+                    <li>* Golf</li><br>
+                    <li>* Nightlife</li><br>
+                    <li>* Weddings and more</li><br><br>
+                </ul>
+                </p><br><br><br>
+                <a class="btn-zona1 btn-lg mt-2" type="button"><i class="icon-envelope"></i> Contact us</a>
             </div>
+            <div class="col-5 col-md-1"></div>
         </div>
     </div>
 
