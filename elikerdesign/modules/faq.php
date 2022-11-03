@@ -174,7 +174,7 @@
                                         <div id="collapse4" class="accordion-collapse collapse"
                                             aria-labelledby="heading4" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                Contact us as soon as possible, because our drivers have several
+                                                <a href="" style="color: blue;">Contact us</a> as soon as possible, because our drivers have several
                                                 assigned
                                                 services and your belongings can be lost or taken by other passengers.
                                                 size
@@ -245,7 +245,7 @@
                                                 your destination and follow the on-screen steps. <br> <br>
                                                 Consult our list of hotels, do not continue with the reservation when
                                                 you can't find your hotel, otherwise, you may generate an additional
-                                                charge of 40% to make the change. Contact us for assistance. <br><br>
+                                                charge of 40% to make the change. <a href="" style="color: blue;">Contact us</a> for assistance. <br><br>
                                                 Reservation options <br><br>
                                                 <ul>
                                                     <li>* Book from $ 30 usd, paying through our website, upon arrival
@@ -358,7 +358,7 @@
                                                 No, all of our services include complimentary drinks, 1 beer and 1
                                                 bottle of water per person upon arrival. <br><br>
                                                 You can request special drinks such as sparkling wine at an additional
-                                                charge, contact us for more information
+                                                charge, <a href="" style="color: blue;">contact us</a> for more information
                                             </div>
                                         </div>
                                     </div>
@@ -377,7 +377,8 @@
                                                 please check that it is not in the spam. No need to print the voucher
                                                 you can show it directly to the driver. <br><br>
                                                 Still can't your voucher?<br><br>
-                                                Your email bay be misspelld at the time of booking, please contact us. <br><br>
+                                                Your email bay be misspelld at the time of booking, please <a href="" style="color: blue;">contact us</a>.
+                                                <br><br>
                                                 Please have the following information ready <br><br>
                                                 <ul>
                                                     <li>* Name, last name</li> <br>
@@ -385,6 +386,229 @@
                                                     <li>* Cell phone number</li><br>
                                                     <li>* Copy of PayPal payment, credit or debit card</li><br>
                                                 </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2"></div>
+                    </div>
+                </div>
+
+                <div aria-labelledby="arrival-tab" class="tab-pane fade" id="arrival" role="tabpanel"
+                    style="background-color: #fff;">
+                    <div class="row">
+                        <div class="col-md-2"></div>
+                        <div class="col-12 col-md-8">
+                            <div class="container">
+                                <div class="accordion" id="accordionExample">
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="headingOne">
+                                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                                data-bs-target="#collapseOne" aria-expanded="true"
+                                                aria-controls="collapseOne">
+                                                By mistake I misspelled the travel itinerary, can I make the charge?"
+                                            </button>
+                                        </h2>
+                                        <div id="collapseOne" class="accordion-collapse collapse show"
+                                            aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                Yes, you must request it by email, we recommend making the change:
+                                                <ul class="faq">
+                                                    <li>* 48 hours before the service (arrival or departure), there is
+                                                        no additional cost for the procedure</li><br>
+                                                    <li>* 24 hours before or the same day of the service (arrival or
+                                                        departure), has an additional charge of 40% of the final price
+                                                    </li><br>
+                                                    <li>* We cannot guarantee last minute changes (arrival or
+                                                        departure), the service will depend on the availability of the
+                                                        vehicle</li><br>
+                                                    <br>
+                                                </ul>
+                                                <b>According to our </b>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="headingTwo">
+                                            <button class="accordion-button collapsed" type="button"
+                                                data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                                                aria-expanded="false" aria-controls="collapseTwo">
+                                                Can some else my service?
+                                            </button>
+                                        </h2>
+                                        <div id="collapseTwo" class="accordion-collapse collapse"
+                                            aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                WYes, you must request it by email 24 hours before the service
+                                                (arrival), once the change is made we cannot change it again. <br> <br>
+                                                We need the following information from the person who will use the
+                                                service<br> <br>
+                                                <ul>
+                                                    <li>* Name, Last name</li><br>
+                                                    <li>* Cell phone number</li> <br>
+                                                    <li>* Email</li><br>
+                                                    <li>* Number of passengers</li>
+                                                    <br>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="headingThree">
+                                            <button class="accordion-button collapsed" type="button"
+                                                data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                                aria-expanded="false" aria-controls="collapseThree">
+                                                What should I do if my flight is delayed or canceled?
+                                            </button>
+                                        </h2>
+                                        <div id="collapseThree" class="accordion-collapse collapse"
+                                            aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                Delayed flight<br><br>
+                                                When the flight arrives the same day, our driver can wait for you until
+                                                your arrival, at no additional cost. <br><br>
+                                                Canceled flight <br><br>
+                                                By email indicate the new flight itinerary, we can schedule the service
+                                                for another day, at no additional cost. <br>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="heading4">
+                                            <button class="accordion-button collapsed" type="button"
+                                                data-bs-toggle="collapse" data-bs-target="#collapse4"
+                                                aria-expanded="false" aria-controls="collapse4">
+                                                Where can I find the Eliker Transfer driver at the airport?
+                                            </button>
+                                        </h2>
+                                        <div id="collapse4" class="accordion-collapse collapse"
+                                            aria-labelledby="heading4" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                Upon arriving at the airport, ignore the people who are selling
+                                                timeshares inside the building, Eliker Transfer has no staff here.
+                                                <br><br>
+                                                Domestic Flight Terminal #1: <br>
+                                                Please once you leave of customs, keep walking a few more steps and take
+                                                your right on the group exit and the door will open and you can out of
+                                                the building, the representative will be there on the stairs with the
+                                                Company Logo (that it say: Eliker Transfer) <br><br>
+
+                                                International Flight Terminal #2: <br>
+                                                Please, keep walking to the exit of the airport and you only need to
+                                                look for the Company Logo (that it say: Eliker Transfer) in the (shading
+                                                #4) the representative will be waiting for you.
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2"></div>
+                    </div>
+                </div>
+
+                <div aria-labelledby="departure-tab" class="tab-pane fade" id="departure" role="tabpanel"
+                    style="background-color: #fff;">
+                    <div class="row">
+                        <div class="col-md-2"></div>
+                        <div class="col-12 col-md-8">
+                            <div class="container">
+                                <div class="accordion" id="accordionExample">
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="headingOne">
+                                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                                data-bs-target="#collapseOne" aria-expanded="true"
+                                                aria-controls="collapseOne">
+                                                The time many vary, depending on the area where you are staying.
+                                            </button>
+                                        </h2>
+                                        <div id="collapseOne" class="accordion-collapse collapse show"
+                                            aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                Yes, you must request it by email, we recommend making the change:
+                                                <ul class="faq">
+                                                    <li>* Zone 1 – San José del Cabo: 2 hours 30 minutes before the
+                                                        flight</li><br>
+                                                    <li>* Zone 2 – Puerto Los Cabos and Tourist Corridor: 2 hours 30
+                                                        minutes before the flight</li><br>
+                                                    <li>* Zone 3 – Cabo San Lucas: 3 hours before the flight</li><br>
+                                                    <li>* Zone 4 – Pacific Area: 3 hours before the flight</li>
+                                                    <br>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="headingTwo">
+                                            <button class="accordion-button collapsed" type="button"
+                                                data-bs-toggle="collapse" data-bs-target="#collapseTwo"
+                                                aria-expanded="false" aria-controls="collapseTwo">
+                                                Can I change my departure time?
+                                            </button>
+                                        </h2>
+                                        <div id="collapseTwo" class="accordion-collapse collapse"
+                                            aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                Yes, you must request is by email 48 hours before the service, we cannot
+                                                guarantee last minutes changes, the service will depend on the
+                                                availability of the service.<br> <br>
+                                                <b>According to our </b>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="headingThree">
+                                            <button class="accordion-button collapsed" type="button"
+                                                data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                                aria-expanded="false" aria-controls="collapseThree">
+                                                Where can I find the Eliker Transfer driver at the hotel?
+                                            </button>
+                                        </h2>
+                                        <div id="collapseThree" class="accordion-collapse collapse"
+                                            aria-labelledby="headingThree" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                In accordance with Hotel Policy, the driver will be waiting for you
+                                                outside the lobby.<br><br>
+                                                Important <br><br>
+                                                In some hotels, they change the Eliker Transfer driver for another
+                                                driver without prior notice, they tell the guest that Eliker Transfer
+                                                authorized the change and everything is correct. When this happens
+                                                please <a style="color: blue;" href="">contact us</a> inmediately and do
+                                                not accept the service. <br><br>
+                                                Before getting into the vehicle, check that it is your assigned driver
+                                                and has the Eliker Transfer logo.<br>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-md-2"></div>
+                    </div>
+                </div>
+
+                <div aria-labelledby="cancellations-tab" class="tab-pane fade" id="cancellations" role="tabpanel"
+                    style="background-color: #fff;">
+                    <div class="row">
+                        <div class="col-md-2"></div>
+                        <div class="col-12 col-md-8">
+                            <div class="container">
+                                <div class="accordion" id="accordionExample">
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="headingOne">
+                                            <button class="accordion-button" type="button" data-bs-toggle="collapse"
+                                                data-bs-target="#collapseOne" aria-expanded="true"
+                                                aria-controls="collapseOne">
+                                                How can I cancel the transportation service?
+                                            </button>
+                                        </h2>
+                                        <div id="collapseOne" class="accordion-collapse collapse show"
+                                            aria-labelledby="headingOne" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                You must request cancellation by email, we do not accept requests by
+                                                other means, see our <a href="" style="color: blue;">Cancellation Policy</a> for more details.
                                             </div>
                                         </div>
                                     </div>

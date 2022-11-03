@@ -192,6 +192,6 @@ img {
 }
 
 /* listas */
-ul.faq{
-  list-style-type: square !important;
+ul .faq{
+  list-style-type: circle !important;
 }
