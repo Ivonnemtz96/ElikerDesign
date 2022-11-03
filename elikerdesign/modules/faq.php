@@ -76,8 +76,8 @@
                 <div aria-labelledby="login-tab" style="background-color: #fff;" class="tab-pane fade active show"
                     id="login" role="tabpanel">
                     <div class="row">
-                        <div class="col-md-3"></div>
-                        <div class="col-12 col-md-6">
+                        <div class="col-md-2"></div>
+                        <div class="col-12 col-md-8">
                             <div class="container">
                                 <div class="accordion" id="accordionExample">
                                     <div class="accordion-item">
@@ -186,15 +186,15 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3"></div>
+                        <div class="col-md-2"></div>
                     </div>
                 </div>
 
                 <div aria-labelledby="register-tab" class="tab-pane fade" id="register" role="tabpanel"
                     style="background-color: #fff;">
                     <div class="row">
-                        <div class="col-md-3"></div>
-                        <div class="col-12 col-md-6">
+                        <div class="col-md-2"></div>
+                        <div class="col-12 col-md-8">
                             <div class="container">
                                 <div class="accordion" id="accordionExample">
                                     <div class="accordion-item">
@@ -210,7 +210,7 @@
                                             <div class="accordion-body">
                                                 On our contact page, enter the following travel information:
                                                 <ul class="faq">
-                                                    <li> Name</li><br>
+                                                    <li>* Name</li><br>
                                                     <li>* Number of passengers</li><br>
                                                     <li>* Type of service: Private transportation, Tours, Dinners, Golf,
                                                         Nightlife, Weddings</li><br>
@@ -240,21 +240,21 @@
                                                 We recommend booking 12 to 24 hours before your arrival in Los Cabos,
                                                 otherwise we cannot guarantee the <b>Stops in shopping center
                                                     service</b>,
-                                                event if you have paid for it. <br>
+                                                event if you have paid for it. <br> <br>
                                                 On the main page of our website, you will find a zone price list, select
-                                                your destination and follow the on-screen steps. <br>
+                                                your destination and follow the on-screen steps. <br> <br>
                                                 Consult our list of hotels, do not continue with the reservation when
                                                 you can't find your hotel, otherwise, you may generate an additional
-                                                charge of 40% to make the change. Contact us for assistance. <br>
-                                                Reservation options <br>
+                                                charge of 40% to make the change. Contact us for assistance. <br><br>
+                                                Reservation options <br><br>
                                                 <ul>
                                                     <li>* Book from $ 30 usd, paying through our website, upon arrival
                                                         make the remainig payment in cash to the driver</li>
                                                     <br>
-                                                    <li>* Book paying the full cost through our website</li><br>
+                                                    <li>* Book paying the full cost through our website</li><br><br>
 
                                                 </ul>
-                                                Payments methods <br>
+                                                Payments methods <br><br>
                                                 <ul>
                                                     <li>* PayPal</li>
                                                     <br>
@@ -263,11 +263,9 @@
                                                         30 usd</li>
                                                 </ul>
                                                 We only accept US dollars, Mexican pesos. Please note that our prices
-                                                are per vehicle.
-
-
-
-                                                Tips are not mandatory and are not included in the prices, we leave it
+                                                are per vehicle. <br><br>
+                                                <b>Tips are not mandatory and are not included in the prices</b>, we
+                                                leave it
                                                 to your consideration accoriding to the quality of the service received.
                                                 If you wish, you can give 15% to 20% of the total cost.
                                             </div>
@@ -278,29 +276,29 @@
                                             <button class="accordion-button collapsed" type="button"
                                                 data-bs-toggle="collapse" data-bs-target="#collapseThree"
                                                 aria-expanded="false" aria-controls="collapseThree">
-                                                Can we choose a vehicle on our trip?
+                                                Can I add more passengers to my service?
                                             </button>
                                         </h2>
                                         <div id="collapseThree" class="accordion-collapse collapse"
                                             aria-labelledby="headingThree" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                No, vehicles are subject to availability and we cannot guarantee a
-                                                specific
-                                                model. <br>
-                                                Our units <br>
+                                                Yes, you must request it by email, we offer you two options to make the
+                                                change. <br><br>
                                                 <ul>
-                                                    <li><i class="icon-check"></i> Suburban, Expedition, Mercedez Benz:
-                                                        Up
-                                                        to 5 passengers</li><br>
-                                                    <li><i class="icon-check"></i> Toyota Hiace or similar: Up to 10
-                                                        passengers</li><br>
-                                                </ul>
-                                                Baggage limit <br>
-                                                We recommend two suitcases per person, take into account the space of
-                                                the
-                                                vehicle due to the size of the suitcases, the unit can only carry a
-                                                certain
-                                                amount.
+                                                    <li>
+                                                        * 48 hours before the service (arrival or departure), there is
+                                                        no
+                                                        additional cost for the procedure
+                                                    </li>
+                                                    <li>
+                                                        * 24 hours before or the same day of the service (arrival or
+                                                        departure),
+                                                        you will have to pay $ 25 usd, to carry out the proedure
+                                                    </li>
+                                                </ul> <br>
+                                                <b>In both cases, exceeding the passenger limit of the contracted
+                                                    service
+                                                    will have an additional charge.</b>
                                             </div>
                                         </div>
                                     </div>
@@ -309,25 +307,91 @@
                                             <button class="accordion-button collapsed" type="button"
                                                 data-bs-toggle="collapse" data-bs-target="#collapse4"
                                                 aria-expanded="false" aria-controls="collapse4">
-                                                How can I recover a personal item left in the vehicle?
+                                                Can we stop at shopping centers?
                                             </button>
                                         </h2>
                                         <div id="collapse4" class="accordion-collapse collapse"
                                             aria-labelledby="heading4" data-bs-parent="#accordionExample">
                                             <div class="accordion-body">
-                                                Contact us as soon as possible, because our drivers have several
-                                                assigned
-                                                services and your belongings can be lost or taken by other passengers.
-                                                size
-                                                of the suitcases, the unit can only carry a certain
-                                                amount.
+                                                Yes, this service has an additional cost of $ 25 usd for 30 minutes,
+                                                exceeding the time limit will have and additional charge. <br><br>
+                                                We cannot guarantee the service, when you request it 24 hours before or
+                                                on the same day of your arrival, intermediate stops are not allowed on
+                                                the same day.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="heading-5">
+                                            <button class="accordion-button collapsed" type="button"
+                                                data-bs-toggle="collapse" data-bs-target="#collapse-5"
+                                                aria-expanded="false" aria-controls="collapse-5">
+                                                Do you have child seats?
+                                            </button>
+                                        </h2>
+                                        <div id="collapse-5" class="accordion-collapse collapse"
+                                            aria-labelledby="heading-5" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                Yes, this service is free and has no additional cost, at the time of
+                                                booking you can select one of the three chair options that we offer:
+                                                <ul>
+                                                    <li>* Baby seat</li> <br>
+                                                    <li>* Car seat</li><br>
+                                                    <li>* Booster seat</li><br>
+                                                </ul>
+                                                We cannot provide the service, when you request it minutes before, it is
+                                                the customer's responsibility to request it in advance.
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="heading-6">
+                                            <button class="accordion-button collapsed" type="button"
+                                                data-bs-toggle="collapse" data-bs-target="#collapse-6"
+                                                aria-expanded="false" aria-controls="collapse-6">
+                                                Do the drinks have an additional cost?
+                                            </button>
+                                        </h2>
+                                        <div id="collapse-6" class="accordion-collapse collapse"
+                                            aria-labelledby="heading-6" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                No, all of our services include complimentary drinks, 1 beer and 1
+                                                bottle of water per person upon arrival. <br><br>
+                                                You can request special drinks such as sparkling wine at an additional
+                                                charge, contact us for more information
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="accordion-item">
+                                        <h2 class="accordion-header" id="heading-7">
+                                            <button class="accordion-button collapsed" type="button"
+                                                data-bs-toggle="collapse" data-bs-target="#collapse-7"
+                                                aria-expanded="false" aria-controls="collapse-7">
+                                                What need to do if I not received my voucher?
+                                            </button>
+                                        </h2>
+                                        <div id="collapse-7" class="accordion-collapse collapse"
+                                            aria-labelledby="heading-7" data-bs-parent="#accordionExample">
+                                            <div class="accordion-body">
+                                                At the end of the reservation, you will receive by email your voucher,
+                                                please check that it is not in the spam. No need to print the voucher
+                                                you can show it directly to the driver. <br><br>
+                                                Still can't your voucher?<br><br>
+                                                Your email bay be misspelld at the time of booking, please contact us. <br><br>
+                                                Please have the following information ready <br><br>
+                                                <ul>
+                                                    <li>* Name, last name</li> <br>
+                                                    <li>* Email</li><br>
+                                                    <li>* Cell phone number</li><br>
+                                                    <li>* Copy of PayPal payment, credit or debit card</li><br>
+                                                </ul>
                                             </div>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-md-3"></div>
+                        <div class="col-md-2"></div>
                     </div>
                 </div>
             </div>
@@ -336,14 +400,6 @@
 
 </section>
 
-
-<!-- slider escritorio -->
-<section hi class="slider" style="background-color: #f6f7f8;">
-    <h3 class=" text-center" style="color: #414141;">Our fleet</h3>
-    <h6 class=" text-center" style="color: #414141;">Vehicles are subject to availability</h6>
-    <img src="/images/slider/13.jpg" alt="">
-    <br>
-</section>
 <!-- Clima -->
 <section class="clima">
     <div class="row h-100 justify-content-center align-items-center">
