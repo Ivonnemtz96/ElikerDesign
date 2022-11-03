@@ -190,3 +190,8 @@ img {
     background-image: none !important;
   }
 }
+
+/* listas */
+ul.faq{
+  list-style-type: square !important;
+}
