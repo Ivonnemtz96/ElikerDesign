@@ -154,10 +154,10 @@
                         <span style="color: #414141;">
                             Cell phone call not available, only WhatsApp messages <br>
                         </span>
-                        <button class="p-3" href="" type="button"
+                        <a target="_blank" class="p-3" href="https://wa.me/526241367171" type="button"
                             style="color:#fff;background-color: #00BB2D; border-radius:15px; margin-top:1rem;">
                             <img src="images/icons/whats.png" alt="" style="width: 24px;"> Chat on WhatsApp
-                        </button>
+                        </a>
                     </div>
                 </div>
             </div>

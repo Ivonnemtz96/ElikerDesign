@@ -6,7 +6,7 @@
                 <h3 style="color: #414141;">Cancellation Policy</h3>
                 <span>Updated October 21, 2021</span>
                 <p style="margin-top: 5px;">
-                    According to the <a href="terms-and-conditions.php" style="color: blue;">Terms and Conditions</a>,
+                    According to the <a target="_blank" href="terms-and-conditions.php" style="color: blue;">Terms and Conditions</a>,
                     the customer must request the cancellation of the service via
                     email, we will need the information such as: <br><br>
                 <ul>
