@@ -1,98 +1,170 @@
 <!-- style="background-image: url(images/1.webp);background-size: contain; background-position: inherit; background-repeat: no-repeat" -->
 <section class="banner pb-0 overflow-hidden">
     <div class="container-fluid" style="padding: 0; margin: 0;">
-        <img class="d-none d-md-block" src="images/07.jpg" style="width: 100%;" alt="">
-        <img class="d-block d-md-none" src="images/08.jpg" style="width: 100%;" alt="">
+        <img class="d-none d-md-block" src="images/09.jpg" style="width: 100%;" alt="">
+        <img class="d-block d-md-none" src="images/10.jpg" style="width: 100%;" alt="">
     </div>
 </section>
 
-<!-- About Us  -->
-<section class="about">
+
+<section class="contact-main pt-6 pb-60" style="background-color: #f6f7f8;">
     <div class="container">
-        <div class="row">
-            <div class="col-md-2 col order-2 order-md-1"></div>
-            <div class="col-12 col-md-8 col order-1 order-md-2">
-                <h3 style="text-align:justify; color:#414141 !important;">About us</h3>
-                <p style="text-align:justify; color:#414141 !important;">
-                    Thanks to the effort and dedication of the Eliker Transfer team, we have able to help many families
-                    on their
-                    trip to Los Cabos with our private transportation service. We are thankful to our customers for
-                    choosing us
-                    and we are very pleased to continuing be their transportation company!
-                </p><br>
-                <h6 style="text-align:justify; color:#414141 !important;">Private transportation, within everyone's
-                    reach!</h6>
-                <p style="text-align:justify; color:#414141 !important;">
-                    At first it was and idea on paper, later we founded Eliker Transfer in 2014 in the city of Cabo San
-                    Lucas
-                    B.C.S. México. Our goal is to offer a transportation service that adapts to each need of clients at
-                    an
-                    affordable price, we want them to enjoy the trip and forget about their worries.
-                </p>
+        <div class="contact-info-main mt-0">
+            <div class="row justify-content-center">
+                <div class="col-lg-11 col-offset-lg-1 mx-auto">
+                    <div class="contact-info">
+                        <div class="contact-info-title text-center mb-4 px-5">
+                            <h3 class="mb-1" style="color: #414141;">How we can help you?</h3>
+                        </div>
+                        <div id="contact-form1" class="contact-form">
+                            <div class="row justify-content-center">
+                                <!-- CONTACTO EN ESCRITORIO -->
+                                <div class="col-lg-10 d-none d-md-block">
+                                    <div id="contactform-error-msg"></div>
+                                    <form method="post" action="#" name="contactform2" id="contactform2">
+                                        <div class="form-group mb-2" style="width: 33%;">
+                                            <label for="name">Name <span style="color: red;">*</span></label>
+                                            <input style="border-radius: 0px !important;" type="text" name="first_name"
+                                                class="form-control" id="fullname" placeholder="Name">
+                                        </div>
+
+                                        <div class="form-group mb-2" style="width: 33%;">
+                                            <label for="pnohe">Cell Phone <span style="color: red;">*</span></label>
+                                            <input style="border-radius: 0px !important;" type="text" name="phone"
+                                                class="form-control" id="phone" placeholder="Cell Phone">
+                                        </div>
+
+                                        <div class="form-group mb-2" style="width: 33%;">
+                                            <label for="mail">Email <span style="color: red;">*</span></label>
+                                            <input style="border-radius: 0px !important;" type="email" name="email"
+                                                class="form-control" id="email" placeholder="Email">
+                                        </div>
+
+                                        <div class="form-group mb-2" style="width: 68%;">
+                                            <label for="hotel">Hotel <span style="color: red;">*</span></label>
+                                            <input style="border-radius: 0px !important;" type="text" name="hotel"
+                                                class="form-control" id="hotel" placeholder="Hotel">
+                                        </div>
+
+                                        <div class="form-group mb-2" style="width: 10%;">
+                                            <label for="adultos">Adults <span style="color: red;">*</span></label>
+                                            <input style="border-radius: 0px !important;" type="text" name="adultos"
+                                                class="form-control" id="adultos" placeholder="Adults">
+                                        </div>
+
+                                        <div class="form-group mb-2" style="width: 10%;">
+                                            <label for="teens">Teens <span style="color: red;">*</span></label>
+                                            <input style="border-radius: 0px !important;" type="text" name="teens"
+                                                class="form-control" id="teens" placeholder="Teens">
+                                        </div>
+
+                                        <div class="form-group mb-2" style="width: 10%;">
+                                            <label for="kids">Kids <span style="color: red;">*</span></label>
+                                            <input style="border-radius: 0px !important;" type="text" name="kids"
+                                                class="form-control" id="kids" placeholder="Kids">
+                                        </div>
+
+                                        <div class="textarea mb-2">
+                                            <label for="message">Message <span style="color: red;">*</span></label>
+                                            <textarea name="comments" placeholder="Message"></textarea>
+                                        </div>
+                                        <div class="comment-btn text-center">
+                                            <button class="p-3" href="" type="submit" class="nir-btn" id="submit2" value="Submit"
+                                                style="color:#fff;background-color: #00c4cc; border-radius:0px; margin-top:1rem;">Send
+                                            </button>
+                                            <!-- <input style="border-radius: 0px !important; background-color: #00c4cc;"
+                                                type="submit" class="nir-btn" id="submit2" value="Send"> -->
+                                        </div>
+                                    </form>
+                                </div>
+                                <!-- CONTACTO EN CELULAR -->
+                                <div class="col-lg-10 d-block d-md-none">
+                                    <div id="contactform-error-msg"></div>
+                                    <form method="post" action="#" name="contactform2" id="contactform2">
+                                        <div class="form-group mb-2">
+                                            <label for="name">Name <span style="color: red;">*</span></label>
+                                            <input style="border-radius: 0px !important;" type="text" name="first_name"
+                                                class="form-control" id="fullname" placeholder="Name">
+                                        </div>
+
+                                        <div class="form-group mb-2">
+                                            <label for="pnohe">Cell Phone <span style="color: red;">*</span></label>
+                                            <input style="border-radius: 0px !important;" type="text" name="phone"
+                                                class="form-control" id="phone" placeholder="Cell Phone">
+                                        </div>
+
+                                        <div class="form-group mb-2">
+                                            <label for="mail">Email <span style="color: red;">*</span></label>
+                                            <input style="border-radius: 0px !important;" type="email" name="email"
+                                                class="form-control" id="email" placeholder="Email">
+                                        </div>
+
+                                        <div class="form-group mb-2" style="width: 40%;">
+                                            <label for="adultos">Adults <span style="color: red;">*</span></label>
+                                            <input style="border-radius: 0px !important;" type="text" name="adultos"
+                                                class="form-control" id="adultos" placeholder="Adults">
+                                        </div>
+
+                                        <div class="form-group mb-2" style="width: 40%;">
+                                            <label for="teens">Teens <span style="color: red;">*</span></label>
+                                            <input style="border-radius: 0px !important;" type="text" name="teens"
+                                                class="form-control" id="teens" placeholder="Teens">
+                                        </div>
+
+                                        <div class="form-group mb-2" style="width: 40%;">
+                                            <label for="kids">Kids <span style="color: red;">*</span></label>
+                                            <input style="border-radius: 0px !important;" type="text" name="kids"
+                                                class="form-control" id="kids" placeholder="Kids">
+                                        </div>
+
+                                        <div class="form-group mb-2">
+                                            <label for="hotel">Hotel <span style="color: red;">*</span></label>
+                                            <input style="border-radius: 0px !important;" type="text" name="hotel"
+                                                class="form-control" id="hotel" placeholder="Hotel">
+                                        </div>
+
+                                        <div class="textarea mb-2">
+                                            <label for="message">Message <span style="color: red;">*</span></label>
+                                            <textarea name="comments" placeholder="Message"></textarea>
+                                        </div>
+                                        <div class="comment-btn text-center">
+                                            <button class="p-3" href="" type="submit" class="nir-btn" id="submit2" value="Submit"
+                                                style="color:#fff;background-color: #00c4cc; border-radius:0px; margin-top:1rem;">Send
+                                            </button>
+                                            <!-- <input style="border-radius: 0px !important; background-color: #00c4cc;"
+                                                type="submit" class="nir-btn" id="submit2" value="Send"> -->
+                                        </div>
+                                    </form>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 mt-10">
+                    <div class="container text-center">
+                        <img src="images/icons/reloj.png" alt="">
+                        <p>
+                            <b>Office hours</b> <br>
+                            Monday - Saturday: 9 hrs to 18 hrs
+                        </p>
+                    </div>
+                </div>
+                <div class="col-md-6 mt-10">
+                    <div class="container text-center">
+                        <span style="color: #414141;">
+                            Cell phone call not available, only WhatsApp messages <br>
+                        </span>
+                        <button class="p-3" href="" type="button"
+                            style="color:#fff;background-color: #00BB2D; border-radius:15px; margin-top:1rem;">
+                            <img src="images/icons/whats.png" alt="" style="width: 24px;"> Chat on WhatsApp
+                        </button>
+                    </div>
+                </div>
             </div>
-            <div class="col-md-2 col order-3 order-md-3"></div>
         </div>
     </div>
 </section>
 
-<!-- Our Services -->
-<section class="services" style="background-color: #f6f7f8;">
-    <div class="container">
-        <div class="row h-100 justify-content-center text-center">
-            <div style="box-shadow: 1px 1px 5px #414141;border: 1px solid #414141; background-color: #fff;" class="mt-3 col-8 col-md-8 col-lg-3 p-5">
-                <img src="images/icons/car.png" alt="image not found">
-                <h5 style="text-align:center; color:#414141 !important;" class="mt-2">Private Transportation</h5> <br>
-                <p style="text-align: justify;">
-                    From San José del Cabo International Airport (SJD) to: <br> <br>
-                <ul style="text-align: justify;">
-                    <li>* San José del Cabo</li> <br>
-                    <li>* Tourist Corridor</li><br>
-                    <li>* Cabo San Lucas</li><br>
-                    <li>* Pacific Area</li><br>
-                </ul>
-                </p><br>
-                <p style="text-align: justify;">
-                    <b>One way or Round Trip</b>
-                </p> <br> <br> <br>
-                <a class="btn-zona1 btn-lg mt-1" type="button"><i class="icon-envelope"></i> Contact us</a>
-            </div>
-            <div class="col-5 col-md-1"></div>
-            <div style="box-shadow: 1px 1px 5px #414141;border: 1px solid #414141; background-color: #fff;" class="mt-3 col-8 col-md-8 col-lg-3 p-5">
-                <img src="images/icons/map.png" alt="image not found">
-                <h5 style="text-align:center; color:#414141 !important;" class="mt-2">City Tours</h5> <br>
-                <p style="text-align: justify;">
-                    Private transportation from the hotel to the following cities: <br> <br>
-                <ul style="text-align: justify;">
-                    <li>* Todos Santos</li> <br>
-                    <li>* La Paz</li><br>
-                    <li>* Cabo San Lucas</li><br> <br>
-                </ul>
-                </p><br>
-                <p style="text-align: justify;">
-                    <b>Round Trip</b>
-                </p> <br><br>
-                <a class="btn-zona1 btn-lg mt-1" type="button"><i class="icon-envelope"></i> Contact us</a>
-            </div>
-            <div class="col-5 col-md-1"></div>
-            <div style="box-shadow: 1px 1px 5px #414141;border: 1px solid #414141; background-color: #fff;" class="mt-3 col-8 col-md-8 col-lg-3 p-5">
-                <img src="images/icons/events.png" alt="image not found">
-                <h5 style="text-align:center; color:#414141 !important;" class="mt-2">Special events</h5> <br>
-                <p style="text-align: justify;">
-                Private transportation from the hotel to the following things: <br> <br>
-                <ul style="text-align: justify;">
-                    <li>* Dinners</li> <br>
-                    <li>* Golf</li><br>
-                    <li>* Nightlife</li><br>
-                    <li>* Weddings and more</li><br><br>
-                </ul>
-                </p><br><br><br>
-                <a class="btn-zona1 btn-lg mt-2" type="button"><i class="icon-envelope"></i> Contact us</a>
-            </div>
-            <div class="col-5 col-md-1"></div>
-        </div>
-    </div>
-
-</section>
 <!-- Clima -->
 <section class="clima">
     <div class="row h-100 justify-content-center align-items-center">
