@@ -5,42 +5,78 @@
             <div class="col-md-10">
                 <h3 style="color: #414141;">Terms and Conditions</h3>
                 <span>Updated October 21, 2021</span>
-                <p>
-                    According to the <a href="terms-and-conditions.php" style="color: blue;">Terms and Conditions</a>,
-                    the customer must request the cancellation of the service via
-                    email, we will need the information such as: <br><br>
-                <ul>
-                    <li>* Name, Last name</li> <br>
-                    <li>* Email</li><br>
-                    <li>* Voucher number</li> <br>
-                    <li>* Copy of the payment</li><br>
-                    <li>* Cell phone number</li><br>
-                </ul>
+                <p style="margin-top: 20px;">
+                    The domains <a target="_blank" href="https://www.elikertransfer.com/" style="color: blue;">www.elikertransfer.com</a>,
+                    <a target="_blank" href="https://bookings.elikertransfer.net/" style="color: blue;">
+                        www.bookings.elikertransfer.net</a>, are owned by Eliker Transfer S
+                    de RL de CV, the client ("user"), when browsing the websites, YOU ARE AGREE TO THE TERMS AND
+                    CONDITIONS, OTHERWISE, PLEASE STOP THE USE. <br><br>
+                    <b>THE TERMS AND CONDITIONS ARE CHANGED WITHOUT NOTICE.</b>
                 </p>
-                <p>
-                    Please, before requesting cancellation note the following: <br><br>
-                <ul>
-                    <li>* Cancel 72 hours before the service, you will receive a 100%</li> <br>
-                    <li>* Cancel 48 hours before the service, you will receive a 50%</li><br>
-                    <li>* Cancel the same day or 24 hours before, does not apply for reimbursement due to expenses
-                        incurred for your arrival</li> <br><br>
-                </ul>
 
-                <b>We reserve the right to cancel the service and it is not applicable for refund if you do not show up
-                    at the scheduled time and do not notify possible changes,</b>
-                when this happens you will be notified and you will have to book the service again if required.
-                </p>
-                <h6 style="color: #414141;">Refunds</h6>
-                <p>
-                    After the cancellation is approved, we will proceed to make the refund to the account that made the
-                    payment at the time of booking, it may take a few days for the refund to appear on your statement. <br><br>
-                    
-                    By paying with PayPal, you can receive an instant refund within 24 hours. <br><br>
+                <h5 style="color: #414141;margin-top:2rem;">Website and Email</h5>
 
-                    Paying by credit or debit card the estimated time is 24 hours, however, in our system we make the
-                    refund and the issuing bank is the one who decides how long the operation will take, if you have any
-                    problem please contact your bank. <br><br>
+                <p>
+                    Eliker Transfer S de RL de CV, makes available to the user the website
+                    <a target="_blank" href="https://www.elikertransfer.com/" style="color: blue;">www.elikertransfer.com</a>,
+                    <a target="_blank" href=" https://bookings.elikertransfer.net/" style="color: blue;">
+                        www.bookings.elikertransfer.net</a>, and the email address, where you can find on the page
+                    contact, in
+                    each of the aforementioned websites, in order that the user can request information on services,
+                    book through them or make changes to the contracted service. <b>Therefore, it is prohibited to copy,
+                        reproduce, sell, modify, publish or use content for public, private or commercial use with the
+                        intention of damaging the proper functioning of the website and email.</b> <br><br>
                 </p>
+                <p>
+                    It is not allowed to use the website and email (mentioned above), for the purpose of sending
+                    information to Eliker Transfer S de RL de CV about projects, promotions, services, procedures,
+                    methods, techniques, phrases, ideas, inventions, designs or any other information for any purpose
+                    that is not requested. The user who uses these means, for any of these purposes, will do so with the
+                    understanding that Eliker Transfer S de RL de CV, DOES NOT ASSUME ANY OBLIGATION, SO IT WILL NOT
+                    MODIFY OR COMPENSATE THE USER AND MAY OR MAY NOT USE SUCH INFORMATION.
+                </p>
+
+                <h5 style="color: #414141;margin-top:2rem;">Information</h5>
+
+                <p>
+                    Eliker Transfer S de RL de CV makes every effort to ensure that the content of the website
+                    <a target="_blank" href="https://www.elikertransfer.com/" style="color: blue;">www.elikertransfer.com</a>,
+                    <a target="_blank" href="https://bookings.elikertransfer.net/" style="color: blue;">
+                        www.bookings.elikertransfer.net</a>, is as accurate as possible, however, it may
+                    contain inaccuracies, errors or perhaps the information is not updated, therefore, the content of
+                    the website (mentioned above) may be modified at any time and does not assume any responsibility to
+                    update at any given time.
+                </p>
+
+
+                <h5 style="color: #414141;margin-top:2rem;">Information protection</h5>
+
+                <p>
+                    Eliker Transfer S de RL de CV, undertakes to take care of the user's information, which it provides
+                    directly and indirectly through the website
+                    <a target="_blank" href="https://www.elikertransfer.com/" style="color: blue;">www.elikertransfer.com</a>,
+                    <a target="_blank" href="https://bookings.elikertransfer.net/" style="color: blue;">
+                        www.bookings.elikertransfer.net</a>, email and phone call, therefore, we do not provide
+                    information to third parties. <br><br>
+                    We constantly update our security systems to protect the information as much as possible.
+                </p>
+
+
+                <h5 style="color: #414141;margin-top:2rem;">User</h5>
+
+                <p>
+                    The user accepts that he is of legal age in the country where he lives, he can carry out legitimate
+                    operations for personal or commercial use, in order to acquire the transport services offered by
+                    Eliker Transfer S de RL de CV, by doing this, he agrees with our <a target="_blank" href="cancellation-policy.php">Cancellation Policy</a>. <br><br>
+
+                    EMAIL IS A MEANS OF COMMUNICATION BETWEEN THE USER AND ELIKER TRANSFER S DE RL DE CV, THEREFORE, ALL AGREEMENTS, NOTICES, INFORMATION THAT ARE SENT TO THE USER THROUGH THIS MEANS, COMPLY WITH THE LEGAL REQUIREMENTS AS IF THERE WERE DONE IN WRITING. <br><br>
+
+                    The user must give truthful, concise, legitimate information to Eliker Transfer S de RL de CV, when requesting information or hiring a service, it is forbidden for third parties to contract the services on his behalf without his consent, when hiring a service he is responsible of all the charges that may be generated when using the service. <br><br>
+
+                    The user is prohibited from impersonating people or entities, using a false address, sending, distributing, disseminating, posting obscene, indecent, illegal things, threatening, defaming, taking advantage of any flaw in the system or any other method that may harm Eliker Transfer S de RL de CV.
+                </p>
+
+
             </div>
         </div>
     </div>
@@ -54,7 +90,7 @@
             <img src="images/logo.jpg" style="max-width:70%" alt="">
         </div>
         <div class="col-8 col-lg-8 text-center">
-            <a class="weatherwidget-io" href="https://forecast7.com/en/22d89n109d92/cabo-san-lucas/"
+            <a target="_blank" class="weatherwidget-io" href="https://forecast7.com/en/22d89n109d92/cabo-san-lucas/"
                 data-label_1="LOS CABOS" data-label_2="WEATHER" data-font="Open Sans" data-theme="pure"
                 data-accent="rgba(255, 255, 255, 0.02)" data-mooncolor="#ffffff" data-cloudfill="#ffffff">LOS CABOS
                 WEATHER</a>
